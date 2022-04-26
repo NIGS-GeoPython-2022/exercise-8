@@ -1,4 +1,4 @@
-# Exercise 8: Coding and visualizing geostatistics (20 points)
+# Exercise 8: Coding and visualizing geostatistics (17 points)
 
 ## Motivation
 
