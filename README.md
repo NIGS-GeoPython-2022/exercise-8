@@ -10,7 +10,7 @@ This week's exercise is built around two things we all face at some point in our
 > 
 > **You**: *\<sigh\>* Yes, Tito Ismo... Volcanoes are very interesting. (You hope that is enough to get him to leave you alone).
 > 
-> **Tito Ismo**: Hey, since you know so much about rocks now, why don't you tell me a few things about volcanoes. Might be fun to use some of that big brain of yours. Let's start with something easy...how tall is the average volcano?
+> **Tito Jun**: Hey, since you know so much about rocks now, why don't you tell me a few things about volcanoes. Might be fun to use some of that big brain of yours. Let's start with something easy...how tall is the average volcano?
 > 
 > **You**: (How humiliating...you don't know). Well, probably a few kilometers above sea level or something. Are you excited the Lantern Parade later? Should be lots of fun. (You hope changing the subject will steer your tito away from poking fun at you for not knowing something geological. Unfortunately, he is not interested in food, and notices you trying to change the subject).
 > 
