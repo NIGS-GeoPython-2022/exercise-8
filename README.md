@@ -39,7 +39,7 @@ Before starting to work with the problems for this week, you should start a new 
 
 ## Start working
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/introqg/notebooks/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/NIGS-GeoPython-2022/Binder/main?urlpath=lab)
 
 
 There are 2 problems for this week in one notebook.
